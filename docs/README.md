@@ -24,4 +24,4 @@
 
 官方群：475825368
 
-前往[查看开发者文档](/BedWars_island/island.md)
+前往[查看开发者文档](/BedWars_island/Developers.md)
