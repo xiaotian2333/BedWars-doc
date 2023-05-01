@@ -22,6 +22,5 @@
 
 作者：Luckly 小优
 
-官方群：475825368
-
-前往[查看开发者文档](/BedWars_island/Developers.md)
+官方群：4758
+前往[开发者文档](/BedWars_island/Developers.md) | [API文档](/BedWars_island/tag_api.md)
