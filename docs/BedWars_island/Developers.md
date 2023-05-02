@@ -4,25 +4,9 @@
 
 > 本页面为玩家独立制作，非 Luckly 小优 官方制作
 
-## 下载
+## API文档
 
-### 国际版
-
-国际版数据包下载 [蓝奏云](https://wwph.lanzout.com/iwrE20u1t56h) | [OneDrive](https://qxiaotianp-my.sharepoint.com/:f:/g/personal/xiaotian_qxiaotianp_onmicrosoft_com/Esi6V_a8XldFuKrRM2oQHVsBA0VglshiKf_eHhPJAmxJhQ?e=P4by1V)
-
-> 从蓝奏云下载的需要将后缀名改为.mcworld
-
-WIN10/11直接`双击`导入游戏即可
-
-安卓/IOS在文件管理器内选择使用 `Minecraft` 打开
-
----
-
-### 网易版
-
-组件中心搜索`起床战争_海岛`即可
-
-> 有联机大厅版本，此版本不需要创建本地存档
+[点击前往](/BedWars_island/tag_api.md)
 
 ---
 

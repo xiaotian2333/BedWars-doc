@@ -6,6 +6,8 @@
 
 有各地图的详细介绍及对应的群，作者QQ等
 
+[测试页面](/text/index.md)
+
 ## 三床战争小天版
 
 作者：小天
@@ -24,4 +26,4 @@
 
 官方群：475825368
 
-前往[开发者文档](/BedWars_island/Developers.md) | [API文档](/BedWars_island/tag_api.md)
+前往 [开发者文档](/BedWars_island/Developers.md) | [下载](/BedWars_island/Download.md)
