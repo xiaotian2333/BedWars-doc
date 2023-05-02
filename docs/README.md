@@ -10,20 +10,28 @@
 
 ## 三床战争小天版
 
-作者：小天
+一个历史悠久的地图
+
+> 作者：小天
 
 官方群：[278408193](https://jq.qq.com/?k=1S8H9L7z)
 
 ## SkyDream
 
-作者：白菜
+大型地图三床
+
+> 作者：白菜
 
 官方群：704790398
 
 ## 海岛床战
 
-作者：Luckly 小优
+一个纯函数包制作的起床战争，拥有完整的道具商店系统，并且有多种游戏模式
 
-官方群：475825368
+[前往介绍页](/BedWars_island/index.md)
+
+> 作者：Luckly 小优
+
+官方群：475825368 | [作者BiliBili](https://space.bilibili.com/521523419)
 
 前往 [开发者文档](/BedWars_island/Developers.md) | [下载](/BedWars_island/Download.md)
