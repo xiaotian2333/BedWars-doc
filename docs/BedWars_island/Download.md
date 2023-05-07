@@ -4,7 +4,7 @@
 
 ### 国际版
 
-国际版数据包下载 [蓝奏云](https://wwph.lanzout.com/irIXW0uaqspa) | [OneDrive](https://qxiaotianp-my.sharepoint.com/:f:/g/personal/xiaotian_qxiaotianp_onmicrosoft_com/Esi6V_a8XldFuKrRM2oQHVsBA0VglshiKf_eHhPJAmxJhQ?e=P4by1V)
+国际版数据包下载 [蓝奏云](https://wwph.lanzout.com/irLpi0uvumpe) | [OneDrive](https://qxiaotianp-my.sharepoint.com/:f:/g/personal/xiaotian_qxiaotianp_onmicrosoft_com/Esi6V_a8XldFuKrRM2oQHVsBA0VglshiKf_eHhPJAmxJhQ?e=P4by1V)
 
 > 从蓝奏云下载的需要将后缀名改为 `.mcworld`
 
@@ -37,6 +37,8 @@ WIN10/11直接`双击`导入游戏即可
 > 由于蓝奏云的域名一直在变动，建议优先使用 OneDrive 镜像下载
 
 ### 2023年4月
+
+[1.2版本](https://wwph.lanzout.com/irLpi0uvumpe) | 发布于2023年05月05日
 
 [1.1版本](https://wwph.lanzout.com/irIXW0uaqspa) | 发布于2023年04月30日
 
