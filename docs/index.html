@@ -10,12 +10,23 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- 擦除referrer，绕过防盗链 -->
   <meta name="referrer" content="no-referrer" />
+  <!-- 调用百度统计 -->
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?a47543337863e86adf7bec9cc7338bb6";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+  <!-- 百度统计结束 -->
 </head>
 <body>
   <div id="app"></div>
   <!-- 备注 -->
   <!-- loadSidebar 自定义侧边栏开关，true 开启 -->
-  <script>    
+  <script>
     window.$docsify = {
       name: '起床战争文档中心',
       loadSidebar : false,

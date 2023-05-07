@@ -1,12 +1,10 @@
 # 起床战争公告文档库
 
-> 仍在施工，可能有遗漏的地方，欢迎[联系我](http://urls.xiaotian.buzz/uhrDp)添加
+!> 仍在施工，可能有遗漏的地方，欢迎[联系我](http://urls.xiaotian.buzz/uhrDp)添加
 
 这里集合了网易起床战争区大部分的地图
 
 有各地图的详细介绍及对应的群，作者QQ等
-
-[测试页面](/text/index.md)
 
 ## 三床战争小天版
 
@@ -35,3 +33,12 @@
 官方群：475825368 | [作者BiliBili](https://space.bilibili.com/521523419)
 
 前往 [开发者文档](/BedWars_island/Developers.md) | [下载](/BedWars_island/Download.md)
+
+---
+
+<details>
+<summary>一些调试入口（点击展开）</summary>
+
+[测试页面](/text/index.md)
+
+</details>
