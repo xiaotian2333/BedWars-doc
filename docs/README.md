@@ -34,7 +34,7 @@
 
 > 作者：Luckly 小优
 
-官方群：475825368 | [作者BiliBili](https://space.bilibili.com/521523419)
+官方群：[475825368](http://url.xt-url.com/8oo0O) | [作者BiliBili](https://space.bilibili.com/521523419)
 
 前往 [开发者文档](/BedWars_island/Developers.md) | [下载](/BedWars_island/Download.md)
 
