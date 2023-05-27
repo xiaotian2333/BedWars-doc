@@ -6,7 +6,9 @@
 
 前往 [开发者文档](/BedWars_island/Developers.md) | [下载](/BedWars_island/Download.md)
 
-## 本地图持续更新！
+作者：Luckly 小优
+
+## 本地图持续更新
 
 未经许可，切勿转载，免费游玩，禁止盗卖。
 

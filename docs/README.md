@@ -10,6 +10,8 @@
 
 一个历史悠久的地图
 
+[前往介绍页](/xiaotian/index.md)
+
 > 作者：小天
 
 官方群：[278408193](https://jq.qq.com/?k=1S8H9L7z)
@@ -17,6 +19,8 @@
 ## SkyDream
 
 大型地图三床
+
+[前往介绍页](/skydream/index.md)
 
 > 作者：白菜
 
