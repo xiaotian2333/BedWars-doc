@@ -16,8 +16,8 @@
 
 ## 游戏截图
 
-![独立商店](/skydream/resources/%E7%8B%AC%E7%AB%8B%E5%95%86%E5%BA%97.jpg)
+![独立商店](https://i.imgtg.com/2023/05/27/OorrBq.jpg)
 
-![资源点](/skydream/resources/%E8%B5%84%E6%BA%90%E7%82%B9.jpg)
+![资源点](https://i.imgtg.com/2023/05/27/OorAKc.jpg)
 
-![B点岛屿](/skydream/resources/B%E7%82%B9%E5%B2%9B%E5%B1%BF.jpg)
+![B点岛屿](https://i.imgtg.com/2023/05/27/OorK0r.jpg)
